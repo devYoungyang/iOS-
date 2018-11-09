@@ -6,18 +6,15 @@
 * 6.`KVC`简直编码的底层实现原理使用
 * 7.`Runtime`机制的原理
 - 8.Runtime的`Swizzle`黑魔法方法交换和应用场景
-- 9.Runtime的属性关联使用
-- 10.OC消息发送和转发机制原理
-- 11.iOS事件响应链和事件传递原理
-- 12.iOS中的多线程编程、主要是`GCD`的底层实现、 GCD异步函数+并发队列+信号量实现同步操作、GCD线程组的使用、GCD线程栅栏的使用、进程与线程的区别？进程间的通讯方式？
+- 9.Runtime的`属性关联`使用
+- 10.OC`消息发送`和`转发机制`原理
+- 11.iOS`事件响应链`和事件传递原理
+- 12.iOS中的多线程编程、主要是`GCD`的底层实现、 GCD异步函数+并发队列+信号量实现同步操作、GCD线程组的使用、GCD线程栅栏的使用、`进程`与`线程`的区别？进程间的通讯方式？
 - 13.应用程序的生命周期和试图控制器的生命周期
 - 14.UIView的渲染和屏幕显示图像的原理以及卡顿产生的原因和解决方案
-
----
-
 - 15.深copy，浅copy，以及修饰符的区别
 -  16.UITableViewCell的复用原理和UITableView的优化方式
--  17.iOS中的数据持久化的方式有哪些？
+-  17.iOS中的`数据持久化`的方式有哪些？
 - 18.沙盒机制
 - 19.iOS中的`内存管理`机制（ARC和MRC）
 - 20.iOS中的网络编程 NSURLSession、AFNetworking的实现原理和网络数据缓存以及`Socket`网络编程的原理、GET和POST的区别
@@ -31,11 +28,8 @@
 - 28.代理，block，通知，KVO的区别与联系
 - 29.调试方式和Instruments的使用、单元测试、lldb（gdb）常用的调试命令
 - 30.`RunLoop`机制原理
-
--
-
 - 31.iOS组件化开发方案
-- 32.iOS原生与H5的交互、JavaScriptCore的使用
-- 33.iOS的基础动画、CoreGraphics和QuartzCore
+- 32.iOS原生与H5的交互、`JavaScriptCore`的使用
+- 33.iOS的基础动画、`CoreGraphics`和`QuartzCore`
 - 34.iOS中的传值方式
 - 35.Runtime如何实现 weak 属性
