@@ -1,0 +1,29 @@
+PODS:
+  - JJException (0.0.7):
+    - JJException/All (= 0.0.7)
+  - JJException/All (0.0.7):
+    - JJException/ARC
+    - JJException/DeallocBlock
+    - JJException/Main
+    - JJException/MRC
+    - JJException/Swizzle
+  - JJException/ARC (0.0.7):
+    - JJException/DeallocBlock
+    - JJException/Main
+    - JJException/Swizzle
+  - JJException/DeallocBlock (0.0.7)
+  - JJException/Main (0.0.7)
+  - JJException/MRC (0.0.7):
+    - JJException/Main
+    - JJException/Swizzle
+  - JJException/Swizzle (0.0.7)
+
+DEPENDENCIES:
+  - JJException
+
+SPEC CHECKSUMS:
+  JJException: d7fd9e92911b4dd9779fa04289c39995366cf7d6
+
+PODFILE CHECKSUM: 35877834258b0207963b2089806a765f42f8e89b
+
+COCOAPODS: 1.4.0

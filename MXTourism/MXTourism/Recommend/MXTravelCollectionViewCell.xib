@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14109" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14088"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" id="gTV-IL-0wX" customClass="MXTravelCollectionViewCell">
+            <rect key="frame" x="0.0" y="0.0" width="76" height="69"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                <rect key="frame" x="0.0" y="0.0" width="76" height="69"/>
+                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                <subviews>
+                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="dLm-cO-dhL">
+                        <rect key="frame" x="0.0" y="0.0" width="76" height="69"/>
+                    </imageView>
+                </subviews>
+            </view>
+            <constraints>
+                <constraint firstItem="dLm-cO-dhL" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" id="8IO-uX-GS6"/>
+                <constraint firstItem="dLm-cO-dhL" firstAttribute="top" secondItem="gTV-IL-0wX" secondAttribute="top" id="g0e-1B-Na6"/>
+                <constraint firstAttribute="trailing" secondItem="dLm-cO-dhL" secondAttribute="trailing" id="uhW-33-AT2"/>
+                <constraint firstAttribute="bottom" secondItem="dLm-cO-dhL" secondAttribute="bottom" id="zIb-YA-0D6"/>
+            </constraints>
+            <viewLayoutGuide key="safeArea" id="SEy-5g-ep8"/>
+            <size key="customSize" width="76" height="69"/>
+            <connections>
+                <outlet property="iconImgView" destination="dLm-cO-dhL" id="Fce-ff-dku"/>
+            </connections>
+            <point key="canvasLocation" x="47" y="63.5"/>
+        </collectionViewCell>
+    </objects>
+</document>

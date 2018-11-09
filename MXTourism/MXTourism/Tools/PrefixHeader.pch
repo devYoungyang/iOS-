@@ -1,0 +1,41 @@
+//
+//  PrefixHeader.pch
+//  MXTourism
+//
+//  Created by YY on 2018/9/11.
+//  Copyright © 2018年 YY. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#import <IQKeyboardManager.h>
+#import "UITableView+PlaceHolder.h"
+#import "MXResultsViewController.h"
+#import <YBImageBrowser.h>
+#import "MXDetailViewController.h"
+#import "MXTabBarController.h"
+#import "AppDelegate.h"
+#import "RootViewController.h"
+#import <SVProgressHUD.h>
+#import "YYSQLiteManager.h"
+#import "Macro.h"
+#import "YYHttpRequest.h"
+#import <AFNetworking.h>
+#import <Masonry.h>
+#import "TimeTools.h"
+#import <UIImageView+WebCache.h>
+#import "MainViewController.h"
+#import "UIImageView+CornerRadius.h"
+#import "UIView+CornerRadius.h"
+#import "MXMineViewController.h"
+#import "MXRecommendViewController.h"
+#import "MXLocationViewController.h"
+#import "MXHomeViewController.h"
+#import "BaseViewController.h"
+#import <PPNetworkHelper.h>
+
+#endif /* PrefixHeader_pch */
