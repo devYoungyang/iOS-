@@ -1,12 +1,12 @@
-- 1.`Class`类的底层实现原理  //
-- 2.``Category``分类的底层实现原理
-- 3.`Block`块的底层实现原理和使用
+- 1.`Class`类的底层实现原理 - [链接](https://www.jianshu.com/p/74db5638f34f)
+- 2.``Category``分类的底层实现原理 - [链接](https://www.jianshu.com/p/fa66c8be42a2)
+- 3.`Block`块的底层实现原理和使用 - [链接一](https://www.jianshu.com/p/c99f4974ddb5)  [链接二](https://www.jianshu.com/p/8865ff43f30e)
 - 4.`@autoreleasepool`自动释放池的底层实现原理
-* 5.`KVO`键值观察底层实现原理和使用
-* 6.`KVC`简直编码的底层实现原理使用
-* 7.`Runtime`机制的原理
-- 8.Runtime的`Swizzle`黑魔法方法交换和应用场景
-- 9.Runtime的`属性关联`使用
+- 5.`KVO`键值观察底层实现原理和使用 - [链接](https://www.jianshu.com/p/5477cf91bb32)
+- 6.`KVC`简直编码的底层实现原理使用
+- 7.`Runtime`机制的原理 
+- 8.Runtime的`Swizzle`黑魔法方法交换和应用场景 - [链接](https://www.jianshu.com/p/8acdedf9c1af)
+- 9.Runtime的`属性关联`使用 - [链接](https://www.jianshu.com/p/0f9b990e8b0a)
 - 10.OC`消息发送`和`转发机制`原理
 - 11.iOS`事件响应链`和事件传递原理
 - 12.iOS中的多线程编程、主要是`GCD`的底层实现、 GCD异步函数+并发队列+信号量实现同步操作、GCD线程组的使用、GCD线程栅栏的使用、`进程`与`线程`的区别？进程间的通讯方式？
@@ -27,7 +27,7 @@
 - 27.iOS中的加密算法底层实现和使用、对称加密：AES,DES,MD5  、非对称加密：RSA
 - 28.代理，block，通知，KVO的区别与联系
 - 29.调试方式和Instruments的使用、单元测试、lldb（gdb）常用的调试命令
-- 30.`RunLoop`机制原理
+- 30.`RunLoop`机制原理 - [链接](https://www.jianshu.com/p/de752066d0ad)
 - 31.iOS组件化开发方案
 - 32.iOS原生与H5的交互、`JavaScriptCore`的使用
 - 33.iOS的基础动画、`CoreGraphics`和`QuartzCore`
