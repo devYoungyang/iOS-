@@ -62,6 +62,7 @@ typedef void (^ClikedBarButtonItemCallBack)(void);
  */
 -(void)setBackButtonWithDefaultImage;//这种方法在返回到那个控制器中设置好使
 
+-(void)setHideBackButton:(BOOL) hideBackButton;
 /**
  自定义返回按钮图片
 

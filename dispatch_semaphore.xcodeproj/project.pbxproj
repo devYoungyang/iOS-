@@ -27,6 +27,9 @@
 		D748B947219562E700964758 /* TimeTools.m in Sources */ = {isa = PBXBuildFile; fileRef = D748B944219562E600964758 /* TimeTools.m */; };
 		D748B948219562E700964758 /* UIViewController+AlertViewAndActionSheet.m in Sources */ = {isa = PBXBuildFile; fileRef = D748B946219562E600964758 /* UIViewController+AlertViewAndActionSheet.m */; };
 		D748B94B2195638C00964758 /* YYAlertViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D748B94A2195638C00964758 /* YYAlertViewController.m */; };
+		D768A00A21990CFB000905B3 /* RetainCountViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D768A00921990CFB000905B3 /* RetainCountViewController.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		D768A05021997FE6000905B3 /* HUViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D768A04E21997FE6000905B3 /* HUViewController.m */; };
+		D768A05121997FE6000905B3 /* HUViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = D768A04F21997FE6000905B3 /* HUViewController.xib */; };
 		D775BC50217DA841000F9487 /* NSObject+swizzled.m in Sources */ = {isa = PBXBuildFile; fileRef = D775BC4F217DA841000F9487 /* NSObject+swizzled.m */; };
 		D77893C621703EAE00B43DAD /* RootViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D77893C521703EAE00B43DAD /* RootViewController.m */; };
 		D7832DE9217815D80047ED1B /* ThemeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D7832DE8217815D80047ED1B /* ThemeViewController.m */; };
@@ -106,6 +109,11 @@
 		D748B9492195638C00964758 /* YYAlertViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = YYAlertViewController.h; sourceTree = "<group>"; };
 		D748B94A2195638C00964758 /* YYAlertViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = YYAlertViewController.m; sourceTree = "<group>"; };
 		D75D29C82181BB060072948A /* UILabel+Extension.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UILabel+Extension.h"; sourceTree = "<group>"; };
+		D768A00821990CFB000905B3 /* RetainCountViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RetainCountViewController.h; sourceTree = "<group>"; };
+		D768A00921990CFB000905B3 /* RetainCountViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RetainCountViewController.m; sourceTree = "<group>"; };
+		D768A04D21997FE6000905B3 /* HUViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HUViewController.h; sourceTree = "<group>"; };
+		D768A04E21997FE6000905B3 /* HUViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HUViewController.m; sourceTree = "<group>"; };
+		D768A04F21997FE6000905B3 /* HUViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = HUViewController.xib; sourceTree = "<group>"; };
 		D775BC4E217DA841000F9487 /* NSObject+swizzled.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "NSObject+swizzled.h"; sourceTree = "<group>"; };
 		D775BC4F217DA841000F9487 /* NSObject+swizzled.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "NSObject+swizzled.m"; sourceTree = "<group>"; };
 		D77893C421703EAE00B43DAD /* RootViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RootViewController.h; sourceTree = "<group>"; };
@@ -230,6 +238,11 @@
 				D71EDF202186FAE300161F17 /* KVOViewController.m */,
 				D748B9492195638C00964758 /* YYAlertViewController.h */,
 				D748B94A2195638C00964758 /* YYAlertViewController.m */,
+				D768A00821990CFB000905B3 /* RetainCountViewController.h */,
+				D768A00921990CFB000905B3 /* RetainCountViewController.m */,
+				D768A04D21997FE6000905B3 /* HUViewController.h */,
+				D768A04E21997FE6000905B3 /* HUViewController.m */,
+				D768A04F21997FE6000905B3 /* HUViewController.xib */,
 				D748B943219562E600964758 /* TimeTools.h */,
 				D748B944219562E600964758 /* TimeTools.m */,
 				D748B945219562E600964758 /* UIViewController+AlertViewAndActionSheet.h */,
@@ -402,6 +415,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D730CC8F214A0F6200028698 /* LaunchScreen.storyboard in Resources */,
+				D768A05121997FE6000905B3 /* HUViewController.xib in Resources */,
 				D730CC8C214A0F6200028698 /* Assets.xcassets in Resources */,
 				D730CC8A214A0F6000028698 /* Main.storyboard in Resources */,
 			);
@@ -488,8 +502,10 @@
 				D7832E0121788D050047ED1B /* GCDHelper.m in Sources */,
 				D7832DE9217815D80047ED1B /* ThemeViewController.m in Sources */,
 				D7832DEF2178650B0047ED1B /* EndViewController.m in Sources */,
+				D768A05021997FE6000905B3 /* HUViewController.m in Sources */,
 				D730CC92214A0F6200028698 /* main.m in Sources */,
 				D7E1CDF4217EB8E300337BA6 /* SkillsViewController.m in Sources */,
+				D768A00A21990CFB000905B3 /* RetainCountViewController.m in Sources */,
 				D7832DF2217874030047ED1B /* UINavigationBar+ChangeColor.m in Sources */,
 				D7E1CDF1217EADB200337BA6 /* UILabel+category.m in Sources */,
 				D775BC50217DA841000F9487 /* NSObject+swizzled.m in Sources */,
@@ -680,6 +696,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = PNC38T2SL3;
+				GCC_OPTIMIZATION_LEVEL = 0;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = dispatch_semaphore/PrefixHeader.pch;
 				INFOPLIST_FILE = dispatch_semaphore/Info.plist;
@@ -701,6 +718,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = PNC38T2SL3;
+				GCC_OPTIMIZATION_LEVEL = 0;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = dispatch_semaphore/PrefixHeader.pch;
 				INFOPLIST_FILE = dispatch_semaphore/Info.plist;

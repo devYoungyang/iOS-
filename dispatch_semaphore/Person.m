@@ -68,4 +68,14 @@
     return [NSString stringWithFormat:@"name=%@ age=%li height=%f sex=%i",self.name,(long)self.age,self.height,self.sex];
 }
 
+-(void)eat{
+    NSLog(@"--%s--",__func__);
+}
+-(void)run{
+    NSLog(@"--%s--",__func__);
+}
+-(void)playFootBall{
+    NSLog(@"--%s--",__func__);
+}
+
 @end

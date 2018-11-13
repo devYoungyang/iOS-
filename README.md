@@ -1,15 +1,15 @@
 - 1.`Class`类的底层实现原理 - [链接](https://www.jianshu.com/p/74db5638f34f)
 - 2.``Category``分类的底层实现原理 - [链接](https://www.jianshu.com/p/fa66c8be42a2)
 - 3.`Block`块的底层实现原理和使用 - [链接一](https://www.jianshu.com/p/c99f4974ddb5)  [链接二](https://www.jianshu.com/p/8865ff43f30e)
-- 4.`@autoreleasepool`自动释放池的底层实现原理
+- 4.`@autoreleasepool`自动释放池的底层实现原理 [autoreleasepool](https://juejin.im/post/59eabe2451882578ca2dc145)
 - 5.`KVO`键值观察底层实现原理和使用 - [链接](https://www.jianshu.com/p/5477cf91bb32)
 - 6.`KVC`简直编码的底层实现原理使用
-- 7.`Runtime`机制的原理 
+- 7.`Runtime`机制的原理 [链接](https://www.jianshu.com/p/8acdedf9c1af) <--> [链接](https://www.jianshu.com/p/d949b51d5de7) [链接](https://www.jianshu.com/p/27ee04f3ed7b) [链接](https://www.jianshu.com/p/4546f22b2e96) [链接](https://www.jianshu.com/p/57e3f555756e)
 - 8.Runtime的`Swizzle`黑魔法方法交换和应用场景 - [链接](https://www.jianshu.com/p/8acdedf9c1af)
 - 9.Runtime的`属性关联`使用 - [链接](https://www.jianshu.com/p/0f9b990e8b0a)
 - 10.OC`消息发送`和`转发机制`原理
 - 11.iOS`事件响应链`和事件传递原理
-- 12.iOS中的多线程编程、主要是`GCD`的底层实现、 GCD异步函数+并发队列+信号量实现同步操作、GCD线程组的使用、GCD线程栅栏的使用、`进程`与`线程`的区别？进程间的通讯方式？
+- 12.iOS中的多线程编程、主要是`GCD`的底层实现、 GCD异步函数+并发队列+信号量实现同步操作、GCD线程组的使用、GCD线程栅栏的使用、`进程`与`线程`的区别？进程间的通讯方式？- [多线程](https://www.jianshu.com/p/f28a50f72bb1)
 - 13.应用程序的生命周期和试图控制器的生命周期
 - 14.UIView的渲染和屏幕显示图像的原理以及卡顿产生的原因和解决方案
 - 15.深copy，浅copy，以及修饰符的区别
@@ -18,7 +18,7 @@
 - 18.沙盒机制
 - 19.iOS中的`内存管理`机制（ARC和MRC）
 - 20.iOS中的网络编程 NSURLSession、AFNetworking的实现原理和网络数据缓存以及`Socket`网络编程的原理、GET和POST的区别
-- 21.`Https`和`Http`协议的区别与联系、TCP和UDP区别与联系？
+- 21.`Https`和`Http`协议的区别与联系、TCP和UDP区别与联系？[http](https://www.jianshu.com/p/0dd08712c649) [http](https://juejin.im/post/5872309261ff4b005c4580d4) [tcp](https://juejin.im/post/586cfcf8da2f600055ce8a8d)
 - 22.iOS中的锁机制，各种锁的优缺点？锁的作用！
 - 23.`ReactiveCocoa`(RAC)函数响应式编程框架的原理以及配合MVVM设计模式的使用
 - 24.`MVC`与`MVVM`的区别与联系？各自的优缺点？MVP模式
@@ -27,13 +27,14 @@
 - 27.iOS中的加密算法底层实现和使用、对称加密：AES,DES,MD5  、非对称加密：RSA
 - 28.代理，block，通知，KVO的区别与联系
 - 29.调试方式和Instruments的使用、单元测试、lldb（gdb）常用的调试命令
-- 30.`RunLoop`机制原理 - [链接](https://www.jianshu.com/p/de752066d0ad)
+- 30.`RunLoop`机制原理 - [链接](https://www.jianshu.com/p/de752066d0ad) <—>   [链接](https://www.jianshu.com/p/b9426458fcf6)
 - 31.iOS组件化开发方案
 - 32.iOS原生与H5的交互、`JavaScriptCore`的使用
 - 33.iOS的基础动画、`CoreGraphics`和`QuartzCore`
 - 34.iOS中的传值方式
-- 35.Runtime如何实现 weak 属性
-
+- 35.Runtime如何实现 weak 属性 [weak](https://juejin.im/post/58ffe5fb5c497d0058158fee)
+- 36.OC对象的本质 [链接](https://www.jianshu.com/p/aa7ccadeca88)
+- 37.const,static,extern关键字的区别 [链接](https://www.jianshu.com/p/91e10d1a5242)
 ---
 
 ###  应用市场用户争夺越来越激烈，优质化的用户体验成为决定现在的一款APP软件是否留住用户的关键，所以如何开发高性能的优质APP，成为时下最受关注的热点。本文总结几点开发APP的技巧供大家参考：

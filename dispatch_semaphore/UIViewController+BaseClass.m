@@ -209,5 +209,12 @@ static void *hidesBarsWhenVerticallyCompactKey =@"hidesBarsWhenVerticallyCompact
     UIGraphicsEndImageContext();
     return image;
 }
-
+-(void)setHideBackButton:(BOOL)hideBackButton{
+    if (hideBackButton==YES) {
+        [[UIBarButtonItem appearance]setBackButtonTitlePositionAdjustment:UIOffsetMake(0, -60)forBarMetrics:UIBarMetricsDefault];
+    }else{
+        
+    }
+    
+}
 @end

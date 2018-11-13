@@ -19,4 +19,11 @@
 @property (nonatomic,assign)float height;
 
 
+-(void)eat;
+
+-(void)run;
+
+-(void)playFootBall;
+
+
 @end

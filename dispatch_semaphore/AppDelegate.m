@@ -5,6 +5,8 @@
 //  Created by Yang on 2018/9/13.
 //  Copyright © 2018年 Yang. All rights reserved.
 //
+#import "HUViewController.h"
+#import "RetainCountViewController.h"
 #import "YYAlertViewController.h"
 #import "KVOViewController.h"
 #import "YYTabBarController.h"
@@ -36,7 +38,7 @@
     [JJException configExceptionCategory:JJExceptionGuardAll];
     [JJException startGuardException];
     
-    UINavigationController *gcdNav=[[UINavigationController alloc] initWithRootViewController:[YYAlertViewController new]];
+    UINavigationController *gcdNav=[[UINavigationController alloc] initWithRootViewController:[HUViewController new]];
     UITabBarItem *gcdItem=[[UITabBarItem alloc] initWithTitle:@"GCD" image:[UIImage imageNamed:@"homepage_un"] selectedImage:[UIImage imageWithOriginName:@"homepage"]];
     gcdNav.tabBarItem=gcdItem;
 

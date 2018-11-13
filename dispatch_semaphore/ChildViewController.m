@@ -25,7 +25,7 @@
     } rightNavigationItemTitle:@"右边1" rightNavigationItemImage:@"" andClickedNavigationItemCallBack:^{
         NSLog(@"---点击了右边按钮---");
     }];
-    
+//    [self setHideBackButton:YES];
 //    self.hideNavigationBar=YES;
 //    NSArray *arr=@[@"1",@"2",@"3",@"4",@"5",@"6"];
 //    NSLog(@"---%@----",[arr objectAtIndex:8]);
