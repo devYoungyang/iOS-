@@ -10,10 +10,10 @@
 - 10.OC`消息发送`和`转发机制`原理
 - 11.iOS`事件响应链`和事件传递原理 [链接](https://www.jianshu.com/p/2e074db792ba)
 - 12.iOS中的多线程编程、主要是`GCD`的底层实现、 GCD异步函数+并发队列+信号量实现同步操作、GCD线程组的使用、GCD线程栅栏的使用、`进程`与`线程`的区别？进程间的通讯方式？- [多线程](https://www.jianshu.com/p/f28a50f72bb1)
-- 13.应用程序的生命周期和试图控制器的生命周期
+- 13.应用程序的生命周期和试图控制器的生命周期 [链接](https://www.jianshu.com/p/d60b388b19f5)
 - 14.UIView的渲染和屏幕显示图像的原理以及卡顿产生的原因和解决方案
-- 15.深copy，浅copy，以及修饰符的区别
--  16.UITableViewCell的复用原理和UITableView的优化方式
+- 15.深copy，浅copy，以及修饰符的区别 [链接](https://www.jianshu.com/p/50015abbfbdb)
+-  16.UITableViewCell的复用原理和UITableView的优化方式 [链接](https://www.jianshu.com/p/2b192257276f)
 -  17.iOS中的`数据持久化`的方式有哪些？
 - 18.沙盒机制
 - 19.iOS中的`内存管理`机制（ARC和MRC）
