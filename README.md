@@ -8,7 +8,7 @@
 - 8.Runtime的`Swizzle`黑魔法方法交换和应用场景 - [链接](https://www.jianshu.com/p/8acdedf9c1af)
 - 9.Runtime的`属性关联`使用 - [链接](https://www.jianshu.com/p/0f9b990e8b0a)
 - 10.OC`消息发送`和`转发机制`原理
-- 11.iOS`事件响应链`和事件传递原理
+- 11.iOS`事件响应链`和事件传递原理 [链接](https://www.jianshu.com/p/2e074db792ba)
 - 12.iOS中的多线程编程、主要是`GCD`的底层实现、 GCD异步函数+并发队列+信号量实现同步操作、GCD线程组的使用、GCD线程栅栏的使用、`进程`与`线程`的区别？进程间的通讯方式？- [多线程](https://www.jianshu.com/p/f28a50f72bb1)
 - 13.应用程序的生命周期和试图控制器的生命周期
 - 14.UIView的渲染和屏幕显示图像的原理以及卡顿产生的原因和解决方案
@@ -35,6 +35,26 @@
 - 35.Runtime如何实现 weak 属性 [weak](https://juejin.im/post/58ffe5fb5c497d0058158fee)
 - 36.OC对象的本质 [链接](https://www.jianshu.com/p/aa7ccadeca88)
 - 37.const,static,extern关键字的区别 [链接](https://www.jianshu.com/p/91e10d1a5242)
+- 38.最快让你上手ReactiveCocoa之基础篇 [链接](https://www.jianshu.com/p/87ef6720a096)
+- 39.iOS的小技巧总结，绝对有你想要的 [链接](https://www.jianshu.com/p/4523eafb4cd4)
+- 40.iOS无埋点数据SDK的整体设计与技术实现 [链接](https://www.jianshu.com/p/5f16e1de6d5a)
+- 41.iOS 性能调优,成为一名合格iOS程序员必须掌握的技能 [链接](https://www.jianshu.com/p/05b68c84913a)
+- 42.微信,QQ这类IM app怎么做——谈谈Websocket [链接](https://www.jianshu.com/p/bcefda55bce4)
+- 43.iOS 模块分解—「Runtime面试、工作」看我就 🐒 了 ^_^. [链接](https://www.jianshu.com/p/19f280afcb24)
+- 44.OC最实用的runtime总结，面试、工作你看我就足够了！ [链接](https://www.jianshu.com/p/ab966e8a82e2)
+- 45.史上最详细的的iOS之事件的传递和响应机制 - 原理篇  [链接](https://www.jianshu.com/p/2e074db792ba)
+- 45.23种设计模式及案例 [链接](https://www.jianshu.com/p/4a5a0a92e7d5)
+- 46.手把手教你利用Jenkins持续集成iOS项目 [链接](https://www.jianshu.com/p/41ecb06ae95f)
+- 47.iOS MVVM+RAC 从框架到实战  [链接](https://www.jianshu.com/p/3beb21d5def2)
+- 48.iOS即时通讯，从入门到“放弃”？ [链接](https://www.jianshu.com/p/2dbb360886a8)
+- 49.iOS 图片加载框架－SDWebImage解读 [链接](https://www.jianshu.com/p/be9a0a088feb)
+- 50.iOS,面试必看，最全梳理 [链接](https://www.jianshu.com/p/5d2163640e26)
+- 51.iOS组件化思路－大神博客研读和思考 [链接](https://www.jianshu.com/p/afb9b52143d4)
+- 52.iOS面试题大全-点亮你iOS技能树  [](https://www.jianshu.com/p/403ee06a584e)
+- 53.2017年5月iOS招人心得（附面试题） [链接](https://www.jianshu.com/p/56e40ea56813)
+- 54.2018-iOS面试题<一> [链接](https://www.jianshu.com/p/7ba3d0eb4908)
+- 55.    []()
+
 ---
 
 ###  应用市场用户争夺越来越激烈，优质化的用户体验成为决定现在的一款APP软件是否留住用户的关键，所以如何开发高性能的优质APP，成为时下最受关注的热点。本文总结几点开发APP的技巧供大家参考：
