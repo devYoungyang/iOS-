@@ -1,1 +1,0 @@
-../../../YBImageBrowser/YBImageBrowser/AssistBar/YBImageBrowserPromptBar.h
