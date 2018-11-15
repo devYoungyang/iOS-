@@ -1,33 +1,33 @@
-- 1.`Class`类的底层实现原理 - [链接](https://www.jianshu.com/p/74db5638f34f)
+- 1.`Class`类的底层实现原理 - [链接](https://www.jianshu.com/p/ [链接](http://www.imlifengfeng.com/blog/?p=390)
 - 2.``Category``分类的底层实现原理 - [链接](https://www.jianshu.com/p/fa66c8be42a2)
 - 3.`Block`块的底层实现原理和使用 - [链接一](https://www.jianshu.com/p/c99f4974ddb5)  [链接二](https://www.jianshu.com/p/8865ff43f30e)
 - 4.`@autoreleasepool`自动释放池的底层实现原理 [autoreleasepool](https://juejin.im/post/59eabe2451882578ca2dc145)
-- 5.`KVO`键值观察底层实现原理和使用 - [链接](https://www.jianshu.com/p/5477cf91bb32)
-- 6.`KVC`简直编码的底层实现原理使用
-- 7.`Runtime`机制的原理 [链接](https://www.jianshu.com/p/8acdedf9c1af) <--> [链接](https://www.jianshu.com/p/d949b51d5de7) [链接](https://www.jianshu.com/p/27ee04f3ed7b) [链接](https://www.jianshu.com/p/4546f22b2e96) [链接](https://www.jianshu.com/p/57e3f555756e)
+- 5.`KVO`键值观察底层实现原理和使用 - [链接](https://www.jianshu.com/p/5477cf91bb32) [链接](http://www.imlifengfeng.com/blog/?p=498)
+- 6.`KVC`简直编码的底层实现原理使用. [链接](http://www.imlifengfeng.com/blog/?p=493)
+- 7.`Runtime`机制的原理 [链接](https://www.jianshu.com/p/8acdedf9c1af) [链接](https://www.jianshu.com/p/d949b51d5de7) [链接](https://www.jianshu.com/p/27ee04f3ed7b) [链接](https://www.jianshu.com/p/4546f22b2e96) [链接](https://www.jianshu.com/p/57e3f555756e) [链接](http://www.imlifengfeng.com/blog/?p=316)
 - 8.Runtime的`Swizzle`黑魔法方法交换和应用场景 - [链接](https://www.jianshu.com/p/8acdedf9c1af)
 - 9.Runtime的`属性关联`使用 - [链接](https://www.jianshu.com/p/0f9b990e8b0a)
-- 10.OC`消息发送`和`转发机制`原理
+- 10.OC`消息发送`和`转发机制`原理 [链接](http://www.imlifengfeng.com/blog/?p=398)
 - 11.iOS`事件响应链`和事件传递原理 [链接](https://www.jianshu.com/p/2e074db792ba)
 - 12.iOS中的多线程编程、主要是`GCD`的底层实现、 GCD异步函数+并发队列+信号量实现同步操作、GCD线程组的使用、GCD线程栅栏的使用、`进程`与`线程`的区别？进程间的通讯方式？- [多线程](https://www.jianshu.com/p/f28a50f72bb1)
-- 13.应用程序的生命周期和试图控制器的生命周期 [链接](https://www.jianshu.com/p/d60b388b19f5)
-- 14.UIView的渲染和屏幕显示图像的原理以及卡顿产生的原因和解决方案
-- 15.深copy，浅copy，以及修饰符的区别 [链接](https://www.jianshu.com/p/50015abbfbdb)
--  16.UITableViewCell的复用原理和UITableView的优化方式 [链接](https://www.jianshu.com/p/2b192257276f)
+- 13.应用程序的生命周期和试图控制器的生命周期 [链接](https://www.jianshu.com/p/d60b388b19f5) [链接](http://www.imlifengfeng.com/blog/?p=478)
+- 14.UIView的渲染和屏幕显示图像的原理以及卡顿产生的原因和解决方案 [链接](http://www.imlifengfeng.com/blog/?p=593)
+- 15.深copy，浅copy，以及修饰符的区别 [链接](https://www.jianshu.com/p/50015abbfbdb) [链接](http://www.imlifengfeng.com/blog/?p=21)
+-  16.UITableViewCell的复用原理和UITableView的优化方式 [链接](https://www.jianshu.com/p/2b192257276f) [链接](http://www.imlifengfeng.com/blog/?p=501)
 -  17.iOS中的`数据持久化`的方式有哪些？
 - 18.沙盒机制
-- 19.iOS中的`内存管理`机制（ARC和MRC）
+- 19.iOS中的`内存管理`机制（ARC和MRC） [链接](http://www.imlifengfeng.com/blog/?p=302) [链接](http://blog.devtang.com/2016/07/30/ios-memory-management/)
 - 20.iOS中的网络编程 NSURLSession、AFNetworking的实现原理和网络数据缓存以及`Socket`网络编程的原理、GET和POST的区别
 - 21.`Https`和`Http`协议的区别与联系、TCP和UDP区别与联系？[http](https://www.jianshu.com/p/0dd08712c649) [http](https://juejin.im/post/5872309261ff4b005c4580d4) [tcp](https://juejin.im/post/586cfcf8da2f600055ce8a8d)
-- 22.iOS中的锁机制，各种锁的优缺点？锁的作用！
+- 22.iOS中的锁机制，各种锁的优缺点？锁的作用！[链接](http://www.imlifengfeng.com/blog/?p=582)
 - 23.`ReactiveCocoa`(RAC)函数响应式编程框架的原理以及配合MVVM设计模式的使用
-- 24.`MVC`与`MVVM`的区别与联系？各自的优缺点？MVP模式
+- 24.`MVC`与`MVVM`的区别与联系？各自的优缺点？MVP模式 [链接](https://draveness.me/mvx)
 - 25.实现一个`单例`。单例的优缺点
 - 26.`SDWebImage的`底层实现原理
 - 27.iOS中的加密算法底层实现和使用、对称加密：AES,DES,MD5  、非对称加密：RSA
 - 28.代理，block，通知，KVO的区别与联系
-- 29.调试方式和Instruments的使用、单元测试、lldb（gdb）常用的调试命令
-- 30.`RunLoop`机制原理 - [链接](https://www.jianshu.com/p/de752066d0ad) <—>   [链接](https://www.jianshu.com/p/b9426458fcf6)
+- 29.调试方式和Instruments的使用、单元测试、lldb（gdb）常用的调试命令 [lldb](http://www.imlifengfeng.com/blog/?p=622) [单元测试](http://www.imlifengfeng.com/blog/?p=32)
+- 30.`RunLoop`机制原理 - [链接](https://www.jianshu.com/p/de752066d0ad)  [链接](https://www.jianshu.com/p/b9426458fcf6) [链接](http://www.imlifengfeng.com/blog/?p=487)
 - 31.iOS组件化开发方案
 - 32.iOS原生与H5的交互、`JavaScriptCore`的使用
 - 33.iOS的基础动画、`CoreGraphics`和`QuartzCore`
@@ -99,6 +99,19 @@
 - 98.iOS绘图教程 [链接](http://www.cnblogs.com/xdream86/archive/2012/12/12/2814552.html)
 - 99.Core Animation编程指南 [链接](https://www.cnblogs.com/xdream86/p/3250782.html)
 - 100.iOS单元测试(作用及入门提升) [链接](https://www.jianshu.com/p/8bbec078cabe)
+- 101.iOS UIWebView与WKWebView [链接](http://www.imlifengfeng.com/blog/?p=528)
+- 102.iOS多线程详解 [链接](http://www.imlifengfeng.com/blog/?p=533)
+- 103.iOS Core Animation详解 [链接](http://www.imlifengfeng.com/blog/?p=548)
+- 104.iOS Quartz2D详解 [链接](http://www.imlifengfeng.com/blog/?p=514)
+- 105.iOS instancetype和id区别详解 [链接](http://www.imlifengfeng.com/blog/?p=485)
+- 106.@property参数详解 [链接](http://www.imlifengfeng.com/blog/?p=453)
+- 107.iOS Runtime之三：成员变量和属性 [链接](http://www.imlifengfeng.com/blog/?p=395)
+- 108.iOS 视图控制器转场详解 [链接](http://blog.devtang.com/2016/03/13/iOS-transition-guide/)
+- 109.ReactiveCocoa 讨论会 [链接](http://blog.devtang.com/2016/01/03/reactive-cocoa-discussion/)
+- 110.写iOS SDK注意事项 [链接](http://blog.devtang.com/2015/01/31/write-sdk-tips/)
+- 111.MVVM使用ReactiveCocoa [链接](http://blog.leichunfeng.com/blog/2016/02/27/mvvm-with-reactivecocoa/) [源码解析](http://blog.leichunfeng.com/blog/2015/12/25/reactivecocoa-v2-dot-5-yuan-ma-jie-xi-zhi-jia-gou-zong-lan/) [链接](http://yulingtianxia.com/blog/2015/05/21/ReactiveCocoa-and-MVVM-an-Introduction/) [链接](http://yulingtianxia.com/blog/2014/07/29/reactivecocoa/)
+- 112.+load 与+initialize的区别 [链接](http://blog.leichunfeng.com/blog/2015/05/02/objective-c-plus-load-vs-plus-initialize/)
+
 
 
 
