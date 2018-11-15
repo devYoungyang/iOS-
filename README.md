@@ -21,7 +21,7 @@
 - 21.`Https`和`Http`协议的区别与联系、TCP和UDP区别与联系？[http](https://www.jianshu.com/p/0dd08712c649) [http](https://juejin.im/post/5872309261ff4b005c4580d4) [tcp](https://juejin.im/post/586cfcf8da2f600055ce8a8d)
 - 22.iOS中的锁机制，各种锁的优缺点？锁的作用！[链接](http://www.imlifengfeng.com/blog/?p=582)
 - 23.`ReactiveCocoa`(RAC)函数响应式编程框架的原理以及配合MVVM设计模式的使用
-- 24.`MVC`与`MVVM`的区别与联系？各自的优缺点？MVP模式 [链接](https://draveness.me/mvx)
+- 24.`MVC`与`MVVM`的区别与联系？各自的优缺点？MVP模式 [链接](https://draveness.me/mvx) [链接](http://blog.devtang.com/2015/11/02/mvc-and-mvvm/) [链接](http://www.cocoachina.com/ios/20160108/14916.html) [链接](http://gracelancy.com/blog/2016/01/06/ape-ios-arch-design/)
 - 25.实现一个`单例`。单例的优缺点
 - 26.`SDWebImage的`底层实现原理
 - 27.iOS中的加密算法底层实现和使用、对称加密：AES,DES,MD5  、非对称加密：RSA
@@ -111,6 +111,16 @@
 - 110.写iOS SDK注意事项 [链接](http://blog.devtang.com/2015/01/31/write-sdk-tips/)
 - 111.MVVM使用ReactiveCocoa [链接](http://blog.leichunfeng.com/blog/2016/02/27/mvvm-with-reactivecocoa/) [源码解析](http://blog.leichunfeng.com/blog/2015/12/25/reactivecocoa-v2-dot-5-yuan-ma-jie-xi-zhi-jia-gou-zong-lan/) [链接](http://yulingtianxia.com/blog/2015/05/21/ReactiveCocoa-and-MVVM-an-Introduction/) [链接](http://yulingtianxia.com/blog/2014/07/29/reactivecocoa/)
 - 112.+load 与+initialize的区别 [链接](http://blog.leichunfeng.com/blog/2015/05/02/objective-c-plus-load-vs-plus-initialize/)
+- 113.AFNetworking到底做了什么？[链接](856f0e26279d)  [链接](https://www.jianshu.com/p/f32bd79233da)  [链接](https://www.jianshu.com/p/a84237b07611)  [链接](https://www.jianshu.com/p/4ffeb1ba3046) [链接](https://www.jianshu.com/p/7ed7c0be15b4)
+- 114.iOS下音视频通信-基于WebRTC [链接](https://www.jianshu.com/p/c49da1d93df4)
+- 115.iOS中UIWebView与WKWebView、JavaScript与OC交互、Cookie管理看我就够 [链接](https://www.jianshu.com/p/ac45d99cf912)
+- 116.iOS 开发中你是否遇到这些经验问题 [链接](https://www.jianshu.com/p/8207621ddcaa) [链接](https://www.jianshu.com/p/a924b4a17686)
+- 117.iOS日常工作之常用宏定义大全 [链接](https://www.jianshu.com/p/213b3b96cafe)
+- 118.页面间跳转的性能优化 [链接](https://www.jianshu.com/p/77847c0027c9). [链接](https://www.jianshu.com/p/92532c2b1d55)
+- 119.多年iOS开发经验总结 [链接](https://www.jianshu.com/p/1ff9e44ccc78)
+- 120.iOS 万能跳转界面方法 [链接](https://www.jianshu.com/p/8b3a9155468d)
+- 121.如何快速的开发一个完整的iOS直播app [链接](https://www.jianshu.com/p/bd42bacbe4cc)
+- 122.3分钟实现iOS语言本地化/国际化（图文详解） [链接](https://www.jianshu.com/p/88c1b65e3ddb)
 
 
 
