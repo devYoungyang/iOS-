@@ -121,8 +121,13 @@
 - 120.iOS 万能跳转界面方法 [链接](https://www.jianshu.com/p/8b3a9155468d)
 - 121.如何快速的开发一个完整的iOS直播app [链接](https://www.jianshu.com/p/bd42bacbe4cc)
 - 122.3分钟实现iOS语言本地化/国际化（图文详解） [链接](https://www.jianshu.com/p/88c1b65e3ddb)
-
-
+- 123.Texture 布局篇 [链接](https://segmentfault.com/a/1190000017120540)
+- 124.新大陆：AsyncDisplayKit[链接](https://segmentfault.com/a/1190000007991853)
+- 125.理解 iOS 和 macOS 的内存管理 [链接](https://segmentfault.com/a/1190000017049408)
+- 126.iOS显示性能优化过程讲解 [链接](https://segmentfault.com/a/1190000015030561)
+- 127.iOS数据安全-编码和加密算法 [链接](https://segmentfault.com/a/1190000014797282)
+- 128.iOS开发系列--代码混淆 [链接](https://segmentfault.com/a/1190000014167401)
+- 129.
 
 
 
